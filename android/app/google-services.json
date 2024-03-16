@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327205814625",
+    "project_id": "flash-chat-8e67b",
+    "storage_bucket": "flash-chat-8e67b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327205814625:android:cc01cbd20cbe09d8074520",
+        "android_client_info": {
+          "package_name": "im.mehran.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEMWdsk1KzTZt5rGXYKqWY8GBQaaMkGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
